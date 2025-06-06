@@ -15,5 +15,5 @@ This repository contains 15 MySQL queries for the `Ecommerce_Consumer_Analysis_D
 ## Setup
 - Database: MySQL, `ecommerce` database.
 - Table: `ecommerce_data`.
-- Attempted to import CSV using Table Data Import Wizard, but failed. Used sample data instead.
+-  Import CSV using Table Data Import Wizard, 
 - Index on `Purchase_Category` for optimization.
